@@ -11,8 +11,7 @@
 ![ninja イメージ](ninja2.png "ninja")
 
 # 使用方法
-※詳細は後で書く
-bookmarklet.jsをブックマークに保存する。
+- ※詳細は後で書く （bookmarklet.jsをブックマークに保存する。）
 1. ブックマークを右クリック
 2. ページを追加...
 3. 名前は適当にJpTran等
@@ -20,6 +19,9 @@ bookmarklet.jsをブックマークに保存する。
 - [JavaScript](https://github.com/ReHideAway/PoE2-Jp-Translator-Bookmarklet/blob/main/bookmarklet.js)
 - かなり長いですが、そのまま貼り付けてください。
 6. 単語変換したいWebページで先ほど作ったブックマークを押す
+
+# 注意点
+- 同じ英語で違う和訳がある場合（SkillgemとPassiveで同じ単語など）、/（スラッシュ）区切りで2個表示されます。
 
 # 動作原理
 - 複数の辞書があり、それらを呼んでJavaScriptにて書き換えています。
