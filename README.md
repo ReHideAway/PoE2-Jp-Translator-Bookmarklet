@@ -24,5 +24,5 @@ bookmarklet.jsをブックマークに保存する。
 github gistでindex.jsonで読み込む辞書を登録しているので、自分で準備すれば変更可能
 
 # 対応状況・更新
-2026/06/17 - Active Skill に対応
-2026/06/17 - Passive Skill に対応
+- 2026/06/17 - Active Skill に対応
+- 2026/06/17 - Passive Skill に対応
