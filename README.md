@@ -16,9 +16,15 @@ bookmarklet.jsをブックマークに保存する。
 1. ブックマークを右クリック
 2. ページを追加...
 3. 名前は適当にJpTran等
-4. URLにBookmarklet.jsの内容をコピペして保存
-  - javascript:(functi........();とかなり長いが関係なくコピペして問題無し
-5. 単語変換したいWebページで先ほど作ったブックマークを押す
+4. 以下をスクリプトをURLに貼付して保存
+- [JavaScript](https://github.com/ReHideAway/PoE2-Jp-Translator-Bookmarklet/blob/main/bookmarklet.js)
+- かなり長いですが、そのまま貼り付けてください。
+6. 単語変換したいWebページで先ほど作ったブックマークを押す
+
+# 動作原理
+- 複数の辞書があり、それらを呼んでJavaScriptにて書き換えています。
+- [index.json](https://gist.github.com/ReHideAway/5b5d0b6d6db335003ef83514cbdfe373) に辞書一覧が登録されています。
+- 各辞書の内容はindex.jsonから辿れば見れます。
 
 # 辞書の変更方法
 ※詳細は後で書く
