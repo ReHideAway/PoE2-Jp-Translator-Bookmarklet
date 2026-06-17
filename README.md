@@ -7,6 +7,8 @@
 
 # 使用イメージ
 ![mobalytics イメージ](mobalytics.png "mobalytics")
+![ninja イメージ](ninja1.png "ninja")
+![ninja イメージ](ninja2.png "ninja")
 
 # 使用方法
 ※詳細は後で書く
