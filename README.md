@@ -1,5 +1,11 @@
-# 対応状況
+# PoE2 対応状況
 - PoE2 バージョン： 0.5.2
+
+# 辞書対応状況・更新履歴
+- 2026/06/17 - Unique Item に仮対応（関係ないデータが多く、少し重いかも）
+- 2026/06/17 - Support Gem に対応
+- 2026/06/16 - Active Skill に対応
+- 2026/06/16 - Passive Skill に対応
 
 # PoE2-Jp-Translator-Bookmarklet
 - PoE2 Jp-Translator Bookmarklet: A lightweight browser tool that instantly replaces English PoE2 terms with Japanese translations on any web page.
@@ -35,8 +41,4 @@
 - 特定の辞書のみにしたり、自作辞書を追加など
 - github gistでindex.jsonで読み込む辞書を登録しているので、自分で準備すれば変更可能
 
-# 対応状況・更新
-- 2026/06/17 - Unique Item に仮対応（関係ないデータが多く、少し重いかも）
-- 2026/06/17 - Support Gem に対応
-- 2026/06/16 - Active Skill に対応
-- 2026/06/16 - Passive Skill に対応
+
