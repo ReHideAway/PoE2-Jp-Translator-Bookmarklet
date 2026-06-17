@@ -36,6 +36,7 @@
 - github gistでindex.jsonで読み込む辞書を登録しているので、自分で準備すれば変更可能
 
 # 対応状況・更新
+- 2026/06/17 - Unique Item に仮対応（関係ないデータが多く、少し重いかも）
 - 2026/06/17 - Support Gem に対応
 - 2026/06/16 - Active Skill に対応
 - 2026/06/16 - Passive Skill に対応
