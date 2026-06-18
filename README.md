@@ -21,7 +21,7 @@
 2. ページを追加...
 3. 名前は適当にJpTran等
 4. 以下をスクリプトをURLに貼付して保存
-- [JavaScript](https://github.com/ReHideAway/PoE2-Jp-Translator-Bookmarklet/blob/main/bookmarklet.js)
+- [Bookmarklet] (https://raw.githubusercontent.com/ReHideAway/PoE2-Jp-Translator-Bookmarklet/refs/heads/main/bookmarklet.js)
 - かなり長いですが、そのまま貼り付けてください。
 6. 単語変換したいWebページで先ほど作ったブックマークを押す
 
