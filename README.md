@@ -11,6 +11,10 @@
 - 2026/06/16 - Active Skill に対応
 - 2026/06/16 - Passive Skill に対応
 
+# 確認済みWebページ
+- https://mobalytics.gg/
+- https://poe.ninja/poe2
+
 # 使用イメージ
 ![mobalytics イメージ](mobalytics.png "mobalytics")
 ![ninja イメージ](ninja1.png "ninja")
