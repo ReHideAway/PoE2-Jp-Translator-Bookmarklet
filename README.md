@@ -16,9 +16,10 @@
 - https://poe.ninja/poe2
 
 # 使用イメージ
-<img src="./img/mobalytics.png" width="300">
-![ninja イメージ](ninja1.png "ninja")
-![ninja イメージ](ninja2.png "ninja")
+<img src="./img/demo_mobalytics.png" width="450">
+<img src="./img/demo_ninja1.png" width="450">
+<img src="./img/demo_ninja2.png" width="450">
+
 
 # 使用方法
 - ※詳細は後で書く （bookmarklet.jsをブックマークに保存する。）
