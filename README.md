@@ -16,7 +16,7 @@
 - https://poe.ninja/poe2
 
 # 使用イメージ
-![mobalytics イメージ](mobalytics.png "mobalytics")
+<img src="./img/mobalytics.png" width="300">
 ![ninja イメージ](ninja1.png "ninja")
 ![ninja イメージ](ninja2.png "ninja")
 
